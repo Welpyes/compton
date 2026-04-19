@@ -1,3 +1,4 @@
+# WORK IN PROGRESS
 # Compton
 
 __Compton__ is a compositor for X, and a fork of __xcompmgr-dana__.
